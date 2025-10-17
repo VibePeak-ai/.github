@@ -136,7 +136,7 @@ Businesses using VibePeak report:
 - 🚀 [Web Application](https://app.vibepeak.ai)
 - 📚 Documentation (Coming Soon)
 - 💬 Support: Contact us through the web app
-- 📧 Business Inquiries: hello@vibepeak.ai
+- 📧 Business Inquiries: info@vibepeak.ai
 
 ---
 
@@ -150,9 +150,12 @@ At VibePeak, we believe every business deserves access to high-quality video adv
 
 - Website: [vibepeak.ai](https://vibepeak.ai)
 - Web App: [app.vibepeak.ai](https://app.vibepeak.ai)
-- Twitter: [@vibepeak](#)
-- LinkedIn: [VibePeak](#)
-- Instagram: [@vibepeak](#)
+- X (Twitter): [@VibepeakAi](https://x.com/VibepeakAi)
+- LinkedIn: [VibePeak](https://www.linkedin.com/company/vibepeak)
+- Instagram: [@vibepeak.ai](https://www.instagram.com/vibepeak.ai/)
+- Facebook: [VibePeak](https://www.facebook.com/profile.php?id=61575554003495)
+- TikTok: [@vibepeak.ai](https://www.tiktok.com/@vibepeak.ai)
+- YouTube: [VibePeak](https://www.youtube.com/channel/UCWnlJOCfMszSqGqDUzqLmRA)
 
 ---
 
