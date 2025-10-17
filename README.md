@@ -65,13 +65,13 @@ Export videos optimized for all major platforms:
 
 ## Use Cases
 
-### 🛍️ Ecommerce Video Marketing
+### 🛍️ [Ecommerce Video Marketing](https://vibepeak.ai/use-cases/ecommerce)
 Transform static product images into dynamic AI-generated video ads that increase conversion rates and reduce cost-per-acquisition. Our ecommerce video maker helps online sellers create professional Amazon product videos, Shopify video content, and product showcase videos at scale.
 
 ### 📱 Social Media Marketing & Content Creation
 Create scroll-stopping UGC-style content with our TikTok ad creator and Instagram Reels generator. Perfect for social media video automation across TikTok, Instagram, and Facebook at scale without expensive creator partnerships.
 
-### 🏠 Real Estate
+### 🏠 [Real Estate](https://vibepeak.ai/use-cases/real-estate)
 Generate professional property tour videos and listing showcases with AI narration and smooth transitions.
 
 ### 👗 Fashion & Beauty Brands
