@@ -4,7 +4,7 @@
 
 **Transform Product Images into Professional Video Ads in Seconds**
 
-[Website](https://vibepeak.ai) • [Web App](https://app.vibepeak.ai) • [Documentation](#) • [Pricing](https://vibepeak.ai/#pricing)
+[Website](https://vibepeak.ai) • [Web App](https://app.vibepeak.ai) • [Documentation](#)
 
 [![AI Video Generation](https://img.shields.io/badge/AI-Video%20Generation-blue)](https://app.vibepeak.ai)
 [![UGC Ads](https://img.shields.io/badge/UGC-Content%20Creator-green)](https://vibepeak.ai)
