@@ -82,18 +82,6 @@ Rapidly test products with professional video ads before committing to large cre
 
 ---
 
-## Technology Stack
-
-Our platform leverages modern web technologies and AI/ML frameworks to deliver fast, reliable video generation:
-
-- **Frontend**: Next.js, React, TypeScript, Tailwind CSS
-- **Backend**: Supabase, Node.js
-- **AI/ML**: Advanced computer vision, generative AI, neural text-to-speech
-- **Video Processing**: Cloud-based rendering pipeline
-- **Authentication**: Secure OAuth and email authentication
-
----
-
 ## SEO Keywords
 
 AI video generator, UGC content creator, product video ads, AI avatar videos, text-to-speech advertising, ecommerce video maker, AI marketing tools, user-generated content platform, automated video ads, AI spokesperson videos, product showcase videos, TikTok ad creator, Instagram Reels generator, social media video automation, AI influencer marketing, dropshipping video ads, Shopify video maker, Amazon product videos, bulk video generation, AI video editing platform
